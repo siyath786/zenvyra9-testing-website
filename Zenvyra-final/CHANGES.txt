@@ -1,0 +1,5 @@
+Requested updates: uploaded wordmark in navbar with separate text removed; LinkedIn icon after WhatsApp linking to https://www.linkedin.com/company/zenvyra9/; stronger scroll-linked reveals. Reduced-motion preferences respected.
+
+The supplied files did not include the original assets folder. Existing photo, loader-logo and contact-logo references are unchanged and will remain missing until you restore your original assets. No replacement photos were generated. Animation libraries are included locally. The navbar artwork is cropped only to remove empty margins; the original artwork is otherwise unchanged.
+
+Extract the ZIP before opening index.html. Copy your original missing assets into assets/ to restore them.
